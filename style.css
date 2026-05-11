@@ -17,16 +17,23 @@ li{
     border-radius: 1%;
     list-style: none;
 }
+iframe{
+    padding: 25px;
+}
 .logo{
     width: 5%;
     position: absolute;
     top: 2%;
     left: 1%;
 }
-.gitHub{
+.githubLogo{
     width: 5.5%;
     position: absolute;
     top: 1.5%;
     left: 7.5%;
-
+}
+.botao{
+    background-color: #cecece;
+    padding: 1% 2%;
+    margin: 2% 2%;
 }
