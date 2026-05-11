@@ -13,7 +13,8 @@ hr{
 li{
     position: relative;
     border: 1px solid #000;
-    padding: 1%;
+    padding: 2%;
+    margin: 2%;
     border-radius: 1%;
     list-style: none;
 }
@@ -26,7 +27,7 @@ iframe{
     top: 2%;
     left: 1%;
 }
-.githubLogo{
+.gitHubLogo{
     width: 5.5%;
     position: absolute;
     top: 1.5%;
