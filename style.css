@@ -6,17 +6,18 @@ body{
     margin: 1%;
     padding: 1%;
     text-align: center;
+    background-color: #ddd;
 }
 hr{
     width: 50%;
 }
 li{
     position: relative;
-    border: 1px solid #000;
     padding: 2%;
     margin: 2%;
     border-radius: 1%;
     list-style: none;
+    background-color: #bbb;
 }
 iframe{
     padding: 25px;
@@ -37,4 +38,7 @@ iframe{
     background-color: #cecece;
     padding: 1% 2%;
     margin: 2% 2%;
+}
+.botao:hover{
+    box-shadow: 0px 0px 10px #fff;
 }
